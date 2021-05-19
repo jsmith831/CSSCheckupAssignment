@@ -34,3 +34,15 @@ dt{
     background-color: rgb(253, 253, 253);
     text-align: center;
 }
+
+.padding li:nth-child(1){
+    border-style: double;
+}
+
+.padding li:nth-child(2){
+    border-style: ridge;
+}
+
+.padding li:nth-child(3){
+    border-style: groove;
+}
